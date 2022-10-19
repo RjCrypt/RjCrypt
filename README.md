@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Application Security, Network Security and Penetration testing
 - 💞️ I’m looking to collaborate on Web Application Security
 - 📫 How to reach me 
-      LINKEDIN ID - https://www.linkedin.com/in/rahul-singh-choudhary-861248205/
+      LINKEDIN ID - https://www.linkedin.com/in/rahul-singh-choudhary
       EMAIL - rahulsinghchoudhary004@gmail.com
 
 <!---
